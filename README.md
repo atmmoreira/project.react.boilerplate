@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="readme/logo/favicon.png" width="50"/> 
+    <img src="readme/logo/favicon.png" /> 
     <h1>Anderson Martins</h1>
     <h4>
         Frontend Web UI Developer <br />
