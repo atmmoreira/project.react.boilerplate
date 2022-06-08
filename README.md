@@ -64,13 +64,6 @@ This is a project to learn React, with a boilerplate made with html, css, tailwi
 
 <br />
 
-> Access to the project
-
-- [GitHub](git@github.com:atmmoreira/project.react.boilerplate.git)
-- [Download](https://github.com/atmmoreira/project.react.boilerplate/archive/refs/heads/master.zip)
-  
-<br />
-
 > Run the project
 
 - `Step 01` - Open the folder project. In this folder you will find the project in react.
