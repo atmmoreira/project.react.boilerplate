@@ -1,4 +1,4 @@
-<div style="text-align: center;text-transform: uppercase;">
+<div align="center">
     <img src="readme/logo/favicon.png" width="50"/> 
     <div><a href="http://www.atmm.dev/cv" target="_blank">Anderson Martins</a></div>
 </div>
