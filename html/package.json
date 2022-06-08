@@ -1,0 +1,37 @@
+{
+  "name": "atmm.specific.boilerplate.html",
+  "version": "1.0.0",
+  "description": "This boilerplate it's for learning technologies like: PHP, Laravel, Node (Nest.js), React (Next.js) and Vue (Nuxt.js).",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack -w",
+    "build": "export NODE_ENV=production && webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atmmoreira/atmm.specific.boilerplate.html.git"
+  },
+  "keywords": [],
+  "author": "Anderson Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atmmoreira/atmm.specific.boilerplate.html/issues"
+  },
+  "homepage": "https://github.com/atmmoreira/atmm.specific.boilerplate.html#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@tailwindcss/forms": "^0.5.2",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^6.3.0",
+    "postcss": "^8.3.8",
+    "postcss-loader": "^6.1.1",
+    "postcss-preset-env": "^6.7.0",
+    "style-loader": "^3.3.0",
+    "tailwindcss": "^3.0.24",
+    "webpack": "^5.55.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
