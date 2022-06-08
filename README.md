@@ -6,7 +6,7 @@
 <br />
 <!-- References for Create budgets :: https://shields.io/category/build -->
 <div align="center">
-    <img src="https://img.shields.io/static/v1?label=STATUS&message=EM DESENVOLVIMENTO&color=red&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=React&message=18.1.0&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=Tailwindcss&message=3.0.24&color=green&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=SASS&message=3.0.24&color=green&style=for-the-badge"/>
+    <img src="https://img.shields.io/static/v1?label=STATUS&message=EM DESENVOLVIMENTO&color=red&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=React&message=18.1.0&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=Tailwindcss&message=3.0.24&color=green&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=SASS&message=3.0.24&color=pink&style=for-the-badge"/>
 </div>
 
 <br />
