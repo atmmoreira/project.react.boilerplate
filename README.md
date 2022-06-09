@@ -67,3 +67,8 @@ This is a project to learn React, with a boilerplate made with html, css, tailwi
 > Run the project
 
 - `Step 01` - Open the folder project. In this folder you will find the project in react.
+- `Step 02` - Inside the folder project. You need follow some steps to run the project.
+    - npm install - if you download the project or clone this repository to install dependencies.
+    - npm start - to starts the development server.
+    - npm test - if you want to starts the test runner.
+    - npm run build - to generate bundles the app into static files for production.
